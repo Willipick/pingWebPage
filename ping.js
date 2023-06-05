@@ -5,7 +5,7 @@ function newPage() {
         window.location="errorPage.html";
     }
     else {
-        window.location="firstPage.html"
+        window.location="index.html"
     }
 }
 
